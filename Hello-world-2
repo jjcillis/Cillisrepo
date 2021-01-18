@@ -1,2 +1,2 @@
-docker pull hello-world
+docker pull hello-worl
 $ docker run hello-world
